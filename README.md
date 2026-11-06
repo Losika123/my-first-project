@@ -22,23 +22,27 @@ Cybersecurity safety tips.
 How to report phishing incidents.
 Recommendations.
 
-Types of Phishing 
-Email phishing
-Spear phishing
-Whaling
-Smishing
+Types of Phishing:
+
+Email phishing,
+Spear phishing,
+Whaling.
+Smishing and
 Vshimg
 
-Warning signs of phishing
-suspicious email addresses.
-Unexpected attachments.
-Fake websites and login pages.
+Warning signs of phishing:
 
-Consequences of phishing
-Identity theft
-Financial loss
+suspicious email addresses,
+Unexpected attachments and
+Fake websites and login pages
+
+Consequences of phishing:
+
+Identity theft,
+Financial loss and 
 Data breaches
 
-Phishing prevention
-Using strong passwords.
+Phishing prevention: 
+
+Using strong passwords and
 Enabling Multi-Factor Authentication.
